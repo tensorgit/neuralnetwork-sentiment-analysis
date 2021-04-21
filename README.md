@@ -3,4 +3,7 @@
 
 Basic webapp link: https://tensorgit.github.io/tensorgit-sentiment.github.io/
 
+**Preview**
+
+<img src="images/webapp.gif">
 
